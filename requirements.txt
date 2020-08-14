@@ -1,0 +1,4 @@
+datapane
+numpy
+pandas
+nbgitpuller 
