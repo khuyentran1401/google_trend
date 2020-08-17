@@ -15,4 +15,4 @@ This repo will help you analyze the trend you are interested in with [Pytrend](h
 
 Use this [notebook](/content/trends.ipynb) or run the [Binder](https://gesis.mybinder.org/binder/v2/gh/khuyentran1401/google_trend/42e056b1df76046e6dee0cb24894c458a43ffe9a?filepath=content%2Ftrends.ipynb) to explore yourself. 
 
-You will be able to create a cool report like [this](https://datapane.com/khuyentran1401/reports/trend_analysis/) to share with your friends. Choose your favorite trend and observe the magic!
+After running the notebook, you will be able to create a cool report like [this](https://datapane.com/khuyentran1401/reports/trend_analysis/) to share with your friends. Choose your favorite trend and observe the magic!
