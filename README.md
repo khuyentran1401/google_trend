@@ -3,7 +3,7 @@
 # Google Trend
 Is there any trend you are interested in? Food, movie, football? What if you could see the trend with Python? 
 
-This repo will help you to analyze the trend you are interested in with Pytrend effortlessly. For example, if you choose 'food' to be the trend, you could see some interesting insights of food such as:
+This repo will help you analyze the trend you are interested in with Pytrend effortlessly. For example, if you choose 'food' to be the trend, you could see some interesting insights of food such as:
 - Related queries:
 
 ![Related Queries](/images/trend.png)
