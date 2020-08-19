@@ -1,5 +1,5 @@
 [![View on Datapane !](https://img.shields.io/badge/Datapane-View%20sample%20report-ff69b4.svg)](https://datapane.com/khuyentran1401/reports/trend_analysis/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/khuyentran1401/google_trend/42e056b1df76046e6dee0cb24894c458a43ffe9a?filepath=content%2Ftrends.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/khuyentran1401/google_trend/94086e2e32991b7045a05df03a99c3f7674c887d?filepath=content%2Ftrends.ipynb)
 
 # Google Trend
 Is there any trend you are interested in? Food, movie, football? What if you could see the trend with Python? 
